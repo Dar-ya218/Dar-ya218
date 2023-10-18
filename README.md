@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on IT Academy [ITA Landing](https://github.com/Dar-ya218/ita-landing-frontend.git)
 
-- 👨‍💻 All of my projects are available at [https://www.solucions-interiorismo.com/](https://www.solucions-interiorismo.com/)
+- 👨‍💻 One of my projects are available at [https://www.solucions-interiorismo.com/](https://www.solucions-interiorismo.com/)
 
 - 💬 Ask me about **React, Java Script**
 
