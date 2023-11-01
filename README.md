@@ -5,7 +5,7 @@
 
 - 👨‍💻 One of my projects are available at [https://www.solucions-interiorismo.com/](https://www.solucions-interiorismo.com/)
 
-- 💬 Ask me about **React, Java Script**
+- 💬 Ask me about **React, Java Script, TypeScript**
 
 - 📫 How to reach me **dasharoura13465@gmail.com**
 
