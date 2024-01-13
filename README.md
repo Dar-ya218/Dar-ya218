@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **dasharoura13465@gmail.com**
 
-- ⚡ Fun fact **I'm good team player and can or can work by me self, decisive, , I love challenge and have a very good communication skills.**
+- ⚡ Fun fact **I'm good team player and can work by me self, decisive. I love challenge and have a very good communication skills.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
