@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Darya Bochkovka</h1>
+<h1 align="center">Hi 👋, I'm Darya Bochkovska</h1>
 <h3 align="center">A passionate frontend developer from Barcelona</h3>
 
 - 🔭 I’m currently working on IT Academy [https://github.com/IT-Academy-BCN/ita-profiles-frontend]
