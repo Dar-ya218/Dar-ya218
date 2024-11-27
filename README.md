@@ -5,7 +5,7 @@
 
 - 👨‍💻 One of my projects are available at [https://www.solucions-interiorismo.com/](https://www.solucions-interiorismo.com/)
 
-- 💬 Ask me about **React, JavaScript, TypeScript, HTML, CSS and C**
+- 💬 Ask me about **React, JavaScript, TypeScript, HTML, CSS, C and Python**
 
 - ⚡ Fun fact **I'm good team player and can work by me self, decisive. I love challenge and have a very good communication skills.**
 
