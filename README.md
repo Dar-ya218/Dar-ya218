@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Darya Bochkovska</h1>
 <h3 align="center">A passionate frontend developer from Barcelona</h3>
 
-- 🔭 I’m currently working on IT Academy [https://github.com/IT-Academy-BCN/ita-profiles-frontend]
 
 - 👨‍💻 One of my projects are available at [https://www.solucions-interiorismo.com/](https://www.solucions-interiorismo.com/)
 
