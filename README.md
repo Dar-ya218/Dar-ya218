@@ -47,7 +47,7 @@
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a>
-  <a href="https://openai.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/OpenAI_Logo_2019.svg" alt="OpenAI" width="40" height="40"/> 
+ <a href="https://www.openai.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.icons8.com/ios-filled/50/000000/artificial-intelligence.png" alt="AI" width="40" height="40"/> 
   </a>
 </p>
