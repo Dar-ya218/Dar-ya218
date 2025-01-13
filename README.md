@@ -3,7 +3,7 @@
 
 - 👨‍💻 One of my projects are available at [https://www.solucions-interiorismo.com/](https://www.solucions-interiorismo.com/)
 
-- 💬 Ask me about **React, JavaScript, TypeScript, HTML, CSS, C and Python**
+- 💬 Ask me about **React, JavaScript, TypeScript, HTML, CSS, C, Python and IA**
 
 - ⚡ Fun fact **I'm good team player and can work by me self, decisive. I love challenge and have a very good communication skills.**
 
@@ -48,6 +48,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a>
   <a href="https://openai.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/OpenAI_Logo.svg" alt="AI" width="40" height="40"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/OpenAI_Logo_2019.svg" alt="OpenAI" width="40" height="40"/> 
   </a>
 </p>
