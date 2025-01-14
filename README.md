@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Darya Bochkovska</h1>
 <h3 align="center">A passionate Full-Stack Developer from Barcelona</h3>
 
--🌱 **Currently Exploring**: Full-stack development with a focus on **Python**, **Artificial Intelligence**, and **React**.
+- 🌱 **Currently Exploring**: Full-stack development with a focus on **Python**, **Artificial Intelligence**, and **React**.
 
 - 👨‍💻 One of my projects are available at [https://www.solucions-interiorismo.com/](https://www.solucions-interiorismo.com/)
 
