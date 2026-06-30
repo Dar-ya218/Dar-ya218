@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Darya Bochkovska</h1>
 <h3 align="center">A passionate Full-Stack Developer from Barcelona</h3>
 
-- 🌱 **Currently Exploring**: Full-stack development with a focus on **Integracion de la IA **, **Python**, and **React**.
+- 🌱 **Currently Exploring**: Full-stack development with a focus on Integracion de la IA, **Python**, and **React**.
 - 👨‍💻 One of my projects are available at [https://www.solucions-interiorismo.com/](https://www.solucions-interiorismo.com/)
 - 💬 Ask me about **React, JavaScript, TypeScript, HTML, CSS, C, Python and IA**
 - ⚡ Fun fact **I'm good team player and can work by me self, decisive. I love challenge and have a very good communication skills. I'm a curious explorer who enjoys diving into new technologies and sharing knowledge with others.**
